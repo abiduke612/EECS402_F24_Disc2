@@ -15,6 +15,12 @@ int main() {
     cout << "Enter how many coffees you would like to buy:" << endl;
     cin >> num_coffees_to_buy;
 
+
+    // TODO: Write an if statement to check if either of the input values 
+    //      were invalid (less than 0). If either value is negative, print
+    //      an error statement and exit with "return 1"
+
+
     // TODO: Write if-else statements to tell the user if they have
     //      more than enough, exactly enough, or not enough to buy that
     //      many coffees
